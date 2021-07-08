@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-18 10:28+0800\n"
+"PO-Revision-Date: 2021-03-18 11:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: work1_fun_conbine.py\n"
+"X-Poedit-SearchPath-1: GUI_work1file.py\n"
+
+#: GUI_work1file.py:136 GUI_work1file.py:340
+msgid "Attention"
+msgstr "注意"
+
+#: GUI_work1file.py:141
+msgid "You can restart now and select the language !"
+msgstr "今すぐ再起動して言語を選択できます！"
+
+#: GUI_work1file.py:143
+msgid "OK"
+msgstr "わかる"
+
+#: GUI_work1file.py:168
+msgid ""
+"       Count the number of words per minute in the subtitle file and "
+"generate a text file      "
+msgstr ""
+"  字幕ファイルの1分間あたりの単語数を数え、テキストファイルを生成します   "
+
+#: GUI_work1file.py:175
+msgid "Object path:"
+msgstr ""
+"オブジェ\n"
+"クトパス："
+
+#: GUI_work1file.py:179
+msgid ""
+"Output \n"
+"path:"
+msgstr ""
+"出力\n"
+"道："
+
+#: GUI_work1file.py:181
+msgid ""
+"Customize \n"
+"extension:"
+msgstr ""
+"カスタマイズ\n"
+"拡張："
+
+#: GUI_work1file.py:186
+msgid "  Information  "
+msgstr " 情報 "
+
+#: GUI_work1file.py:188
+msgid "Option:"
+msgstr "オプション："
+
+#: GUI_work1file.py:193 GUI_work1file.py:197 GUI_work1file.py:334
+msgid "Browse"
+msgstr "ブラウズ"
+
+#: GUI_work1file.py:251
+msgid "Quit"
+msgstr "終了する"
+
+#: GUI_work1file.py:254 GUI_work1file.py:318
+msgid "Start"
+msgstr "開始"
+
+#: GUI_work1file.py:257
+msgid "Recover"
+msgstr "回復する"
+
+#: GUI_work1file.py:260 GUI_work1file.py:273
+msgid "Rename"
+msgstr "名前を変更する"
+
+#: GUI_work1file.py:264
+msgid "Process files in subfolders "
+msgstr "サブフォルダー内のファイルを処理する "
+
+#: GUI_work1file.py:269
+msgid "Output files"
+msgstr "出力ファイル"
+
+#: GUI_work1file.py:300
+msgid "New"
+msgstr "新着"
+
+#: GUI_work1file.py:304
+msgid "Show information list"
+msgstr "情報リストを表示"
+
+#: GUI_work1file.py:308
+msgid "Clear information list"
+msgstr "リスト情報をクリアする"
+
+#: GUI_work1file.py:311
+msgid "Show the selected option"
+msgstr "選択したオプションを表示する"
+
+#: GUI_work1file.py:328
+msgid "Are you sure to quit ?"
+msgstr "やめてもよろしいですか？"
+
+#: GUI_work1file.py:335
+msgid "Quit！"
+msgstr "終了する！"
+
+#: GUI_work1file.py:340
+msgid "Are you sure to quit ? "
+msgstr "やめてもよろしいですか？ "
+
+#: GUI_work1file.py:398
+msgid "No list information currently ！\n"
+msgstr "現在、リスト情報はありません！ \n"
+
+#: GUI_work1file.py:404
+msgid ""
+"* Output:  new file name | Word number in total | Total time of the subtitle "
+"| Word number per minute"
+msgstr "*出力：新しいファイル名|合計単語数|字幕の合計時間| 1分あたりの単語数"
+
+#: GUI_work1file.py:408
+msgid "Word number in total:"
+msgstr "合計単語数："
+
+#: GUI_work1file.py:409
+msgid "Total time of the subtitle(min):"
+msgstr "字幕の合計時間（分）："
+
+#: GUI_work1file.py:411
+msgid "Word number per minute:"
+msgstr "1分あたりの単語数："
+
+#: GUI_work1file.py:414
+msgid " Print information  error !\n"
+msgstr " 印刷情報エラー！ \n"
+
+#: GUI_work1file.py:430
+msgid "The file path cannot be empty !\n"
+msgstr "ファイル パスを空にすることはできません!\n"
+
+#: GUI_work1file.py:437
+msgid "The path of output files should not be empty !\n"
+msgstr "出力ファイルのパスは空であってはなりません！ \n"
+
+#: GUI_work1file.py:443
+msgid "Use the default extension : "
+msgstr "デフォルトの拡張子を使用します： "
+
+#: GUI_work1file.py:444
+msgid "Use the default extension : {}\n"
+msgstr "デフォルトの拡張子を使用します：{} \n"
+
+#: GUI_work1file.py:466
+msgid "* The files are sorted as follows :\n"
+msgstr "*ファイルは次のようにソートされます：\n"
+
+#: GUI_work1file.py:471
+msgid ">> The running time is {:.3f} s "
+msgstr ">>実行時間は{:.3f}秒です "
+
+#: GUI_work1file.py:475
+msgid "* System error ! \n"
+msgstr "* システムエラー ！ \n"
+
+#: GUI_work1file.py:479
+msgid ""
+"================================  This is the dividing line   "
+"============================= \n"
+msgstr ""
+"================================これは分割線です============= "
+"================ \n"
+"= = = = = = = ========================= Koreha bunkatsu-sendesu "
+"============= ================\n"
+
+#: GUI_work1file.py:713
+msgid "Reselect language"
+msgstr "言語を再選択する"
+
+#: GUI_work1file.py:713
+msgid "Language"
+msgstr "言語"
+
+#: GUI_work1file.py:715
+msgid "See help"
+msgstr "ヘルプを見る"
+
+#: GUI_work1file.py:715
+msgid "About"
+msgstr "オン"
+
+#: GUI_work1file.py:715
+msgid "Help"
+msgstr "助けて"
+
+#: work1_fun_conbine.py:67
+msgid "Open the file"
+msgstr "ファイルを開く"
+
+#: work1_fun_conbine.py:144
+msgid "{} files need to be renamed  !\n"
+msgstr "{}ファイルの名前を変更する必要があります！\n"
+
+#: work1_fun_conbine.py:147
+msgid "{} files need to be recovered !\n"
+msgstr "{}ファイルを回復する必要があります！\n"
+
+#: work1_fun_conbine.py:191
+msgid "Rename finished  ! {} files done !\n"
+msgstr "名前の変更が完了しました！ {}ファイルが完了しました！\n"
+
+#: work1_fun_conbine.py:195
+msgid "Recover finished  ! {} files done ! \n"
+msgstr "回復が完了しました！ {}ファイルが完了しました！\n"
+
+#: work1_fun_conbine.py:199
+msgid "Not rename any file.  \n"
+msgstr "ファイルの名前を変更しないでください。\n"
+
+#: work1_fun_conbine.py:283
+msgid "* Searching all files ...... \n"
+msgstr "*すべてのファイルを検索しています.....\n"
+
+#: work1_fun_conbine.py:289
+msgid "* Do not searching sub file folders ...... \n"
+msgstr "*サブファイルフォルダを検索しないでください.....\n"
+
+#: work1_fun_conbine.py:297
+msgid "The number of file paths is {}\n"
+msgstr "ファイルパスの数は{}です\n"
+
+#: work1_fun_conbine.py:313
+msgid "Was it the file we want?"
+msgstr "それは私たちが欲しいファイルでしたか？"
+
+#: work1_fun_conbine.py:315
+msgid "Yes"
+msgstr "はい"
+
+#: work1_fun_conbine.py:317
+msgid "No"
+msgstr "いいえ"
+
+#: work1_fun_conbine.py:330
+msgid "*  List ...... \n"
+msgstr "*リスト.....\n"
+
+#: work1_fun_conbine.py:331
+msgid "The number of file selected is {}\n"
+msgstr "選択されたファイルの数は{}です \n"
+
+#: work1_fun_conbine.py:338
+msgid "-> the filename is :       {}\n"
+msgstr "ファイル名は： {} \n"
+
+#: work1_fun_conbine.py:339
+msgid "the sum of word number is :{}\n"
+msgstr "1分あたりの単語数：{}\n"
+
+#: work1_fun_conbine.py:340
+msgid "the subtitle rate is :     {}\n"
+msgstr "字幕の合計時間： {} \n"
+
+#: work1_fun_conbine.py:344
+msgid "*  Get the new name and new path ......\n"
+msgstr "*新しい名前と新しいパスを取得します.....\n"
+
+#: work1_fun_conbine.py:352
+msgid "*  Write the txt file  ......\n"
+msgstr "* txtファイルを書く.....\n"
+
+#: work1_fun_conbine.py:356
+msgid "*  Rename or recover ......\n"
+msgstr "*名前の変更または回復.....\n"
+
+#: work1_fun_conbine.py:365
+msgid ">>>>>  The total running time is {:.3f} s\n"
+msgstr ">>>>>合計実行時間は{:.3f}秒です\n"
+
+#~ msgid "Are you sure to quit？"
+#~ msgstr "やめてもよろしいですか？"

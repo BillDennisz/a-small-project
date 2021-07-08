@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-17 21:39+0800\n"
+"PO-Revision-Date: 2021-03-17 21:39+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: GUI_work1file.py\n"
+"X-Poedit-SearchPath-1: work1_fun_conbine.py\n"
+
+#: GUI_work1file.py:221 GUI_work1file.py:427
+msgid "Attention"
+msgstr "Attention"
+
+#: GUI_work1file.py:224
+msgid "You can restart now and select the language !"
+msgstr "You can restart now and select the language !"
+
+#: GUI_work1file.py:226
+msgid "OK"
+msgstr ""
+
+#: GUI_work1file.py:251
+msgid ""
+"       Count the number of words per minute in the subtitle file and "
+"generate a text file      "
+msgstr ""
+"       Count the number of words per minute in the subtitle file and "
+"generate a text file      "
+
+#: GUI_work1file.py:258
+msgid "Object path:"
+msgstr "Object path:"
+
+#: GUI_work1file.py:262
+msgid ""
+"Output \n"
+"path:"
+msgstr ""
+"Output \n"
+"path:"
+
+#: GUI_work1file.py:264
+msgid ""
+"Customize \n"
+"extension:"
+msgstr ""
+"Customize \n"
+"extension:"
+
+#: GUI_work1file.py:269
+msgid "  Information  "
+msgstr "  Information  "
+
+#: GUI_work1file.py:271
+msgid "Option:"
+msgstr "Option:"
+
+#: GUI_work1file.py:276 GUI_work1file.py:280 GUI_work1file.py:421
+msgid "Browse"
+msgstr "Browse"
+
+#: GUI_work1file.py:334
+msgid "Quit"
+msgstr "Quit"
+
+#: GUI_work1file.py:337 GUI_work1file.py:405
+msgid "Start"
+msgstr "Start"
+
+#: GUI_work1file.py:340
+msgid "Recover"
+msgstr "Recover"
+
+#: GUI_work1file.py:343 GUI_work1file.py:356
+msgid "Rename"
+msgstr "Rename"
+
+#: GUI_work1file.py:347
+msgid "Process files in subfolders "
+msgstr "Process files in subfolders "
+
+#: GUI_work1file.py:352
+msgid "Output files"
+msgstr "Output files"
+
+#: GUI_work1file.py:383
+msgid "New"
+msgstr ""
+
+#: GUI_work1file.py:391
+msgid "Show information list"
+msgstr ""
+
+#: GUI_work1file.py:395
+msgid "Clear information list"
+msgstr ""
+
+#: GUI_work1file.py:398
+msgid "Show the selected option"
+msgstr ""
+
+#: GUI_work1file.py:415
+msgid "Are you sure to quit ?"
+msgstr "Are you sure to quit ?"
+
+#: GUI_work1file.py:422
+msgid "Quit！"
+msgstr "Quit！"
+
+#: GUI_work1file.py:427
+msgid "Are you sure to quit ? "
+msgstr "Are you sure to quit ? "
+
+#: GUI_work1file.py:482
+msgid "No list information currently ！\n"
+msgstr ""
+
+#: GUI_work1file.py:488
+msgid ""
+"* Output:  new file name | Word number in total | Total time of the subtitle "
+"| Word number per minute"
+msgstr ""
+
+#: GUI_work1file.py:492
+msgid "Word number in total:"
+msgstr ""
+
+#: GUI_work1file.py:493
+msgid "Total time of the subtitle(min):"
+msgstr ""
+
+#: GUI_work1file.py:495
+msgid "Word number per minute:"
+msgstr ""
+
+#: GUI_work1file.py:498
+msgid " Print information  error !\n"
+msgstr ""
+
+#: GUI_work1file.py:514
+msgid "The file paths should not be empty !\n"
+msgstr ""
+
+#: GUI_work1file.py:521
+msgid "The path of output files should not be empty !\n"
+msgstr ""
+
+#: GUI_work1file.py:527
+msgid "Use the default extension : "
+msgstr ""
+
+#: GUI_work1file.py:528
+msgid "Use the default extension : {}\n"
+msgstr ""
+
+#: GUI_work1file.py:550
+msgid "* The files are sorted as follows :\n"
+msgstr ""
+
+#: GUI_work1file.py:555
+msgid ">> The running time is {:.3f} s "
+msgstr ""
+
+#: GUI_work1file.py:559
+msgid "* System error ! \n"
+msgstr ""
+
+#: GUI_work1file.py:563
+msgid ""
+"================================  This is the dividing line   "
+"============================= \n"
+msgstr ""
+
+#: GUI_work1file.py:791
+msgid "Reselect language"
+msgstr ""
+
+#: GUI_work1file.py:791
+msgid "Language"
+msgstr ""
+
+#: GUI_work1file.py:793
+msgid "See help"
+msgstr ""
+
+#: GUI_work1file.py:793
+msgid "About"
+msgstr ""
+
+#: GUI_work1file.py:793
+msgid "Help"
+msgstr ""
+
+#: work1_fun_conbine.py:67
+msgid "Open the file"
+msgstr ""
+
+#: work1_fun_conbine.py:144
+msgid "{} files need to be renamed  !\n"
+msgstr ""
+
+#: work1_fun_conbine.py:147
+msgid "{} files need to be recovered !\n"
+msgstr ""
+
+#: work1_fun_conbine.py:191
+msgid "Rename finished  ! {} files done !\n"
+msgstr ""
+
+#: work1_fun_conbine.py:195
+msgid "Recover finished  ! {} files done ! \n"
+msgstr ""
+
+#: work1_fun_conbine.py:199
+msgid "Not rename any file.  \n"
+msgstr ""
+
+#: work1_fun_conbine.py:283
+msgid "* Searching all files ...... \n"
+msgstr ""
+
+#: work1_fun_conbine.py:289
+msgid "* Do not searching sub file folders ...... \n"
+msgstr ""
+
+#: work1_fun_conbine.py:297
+msgid "The number of file paths is {}\n"
+msgstr ""
+
+#: work1_fun_conbine.py:313
+msgid "Was it the file we want?"
+msgstr ""
+
+#: work1_fun_conbine.py:315
+msgid "Yes"
+msgstr ""
+
+#: work1_fun_conbine.py:317
+msgid "No"
+msgstr ""
+
+#: work1_fun_conbine.py:330
+msgid "*  List ...... \n"
+msgstr ""
+
+#: work1_fun_conbine.py:331
+msgid "The number of file selected is {}\n"
+msgstr ""
+
+#: work1_fun_conbine.py:338
+msgid "-> the filename is :       {}\n"
+msgstr ""
+
+#: work1_fun_conbine.py:339
+msgid "the sum of word number is :{}\n"
+msgstr ""
+
+#: work1_fun_conbine.py:340
+msgid "the subtitle rate is :     {}\n"
+msgstr ""
+
+#: work1_fun_conbine.py:344
+msgid "*  Get the new name and new path ......\n"
+msgstr ""
+
+#: work1_fun_conbine.py:352
+msgid "*  Write the txt file  ......\n"
+msgstr ""
+
+#: work1_fun_conbine.py:356
+msgid "*  Rename or recover ......\n"
+msgstr ""
+
+#: work1_fun_conbine.py:365
+msgid ">>>>>  The total running time is {:.3f} s\n"
+msgstr ""

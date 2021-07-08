@@ -1,0 +1,300 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-18 10:27+0800\n"
+"PO-Revision-Date: 2021-03-18 10:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: GUI_work1file.py\n"
+"X-Poedit-SearchPath-1: work1_fun_conbine.py\n"
+
+#: GUI_work1file.py:136 GUI_work1file.py:340
+msgid "Attention"
+msgstr "提示"
+
+#: GUI_work1file.py:141
+msgid "You can restart now and select the language !"
+msgstr "现在重启后可选择软件语言!"
+
+#: GUI_work1file.py:143
+msgid "OK"
+msgstr "好"
+
+#: GUI_work1file.py:168
+msgid ""
+"       Count the number of words per minute in the subtitle file and "
+"generate a text file      "
+msgstr "       计算每分钟字幕的单词个数，并生成一个文本文件      "
+
+#: GUI_work1file.py:175
+msgid "Object path:"
+msgstr "目标路径："
+
+#: GUI_work1file.py:179
+msgid ""
+"Output \n"
+"path:"
+msgstr ""
+"输出 \n"
+"路径:"
+
+#: GUI_work1file.py:181
+msgid ""
+"Customize \n"
+"extension:"
+msgstr ""
+"自定义\n"
+"扩展名:"
+
+#: GUI_work1file.py:186
+msgid "  Information  "
+msgstr "  信息栏  "
+
+#: GUI_work1file.py:188
+msgid "Option:"
+msgstr "选项："
+
+#: GUI_work1file.py:193 GUI_work1file.py:197 GUI_work1file.py:334
+msgid "Browse"
+msgstr "浏览"
+
+#: GUI_work1file.py:251
+msgid "Quit"
+msgstr "退出"
+
+#: GUI_work1file.py:254 GUI_work1file.py:318
+msgid "Start"
+msgstr "开始"
+
+#: GUI_work1file.py:257
+msgid "Recover"
+msgstr "还原"
+
+#: GUI_work1file.py:260 GUI_work1file.py:273
+msgid "Rename"
+msgstr "重命名"
+
+#: GUI_work1file.py:264
+msgid "Process files in subfolders "
+msgstr "处理子文件夹中的文件 "
+
+#: GUI_work1file.py:269
+msgid "Output files"
+msgstr "输出文件"
+
+#: GUI_work1file.py:300
+msgid "New"
+msgstr "新建"
+
+#: GUI_work1file.py:304
+msgid "Show information list"
+msgstr "显示列表信息"
+
+#: GUI_work1file.py:308
+msgid "Clear information list"
+msgstr "清空列表信息"
+
+#: GUI_work1file.py:311
+msgid "Show the selected option"
+msgstr "显示选择信息"
+
+#: GUI_work1file.py:328
+msgid "Are you sure to quit ?"
+msgstr "你确定要退出吗？"
+
+#: GUI_work1file.py:335
+msgid "Quit！"
+msgstr "退出！"
+
+#: GUI_work1file.py:340
+msgid "Are you sure to quit ? "
+msgstr "你确定要退出吗？ "
+
+#: GUI_work1file.py:398
+msgid "No list information currently ！\n"
+msgstr "*  罗列信息 ...... \n"
+
+#: GUI_work1file.py:404
+msgid ""
+"* Output:  new file name | Word number in total | Total time of the subtitle "
+"| Word number per minute"
+msgstr "* 输出:  新文件名 | 单词总数 | 字幕总时间 | 每分钟单词个数"
+
+#: GUI_work1file.py:408
+msgid "Word number in total:"
+msgstr "单词总数:"
+
+#: GUI_work1file.py:409
+msgid "Total time of the subtitle(min):"
+msgstr "字幕总时间（分钟）"
+
+#: GUI_work1file.py:411
+msgid "Word number per minute:"
+msgstr "每分钟单词数："
+
+#: GUI_work1file.py:414
+msgid " Print information  error !\n"
+msgstr " 信息显示错误 !\n"
+
+#: GUI_work1file.py:430
+msgid "The file path cannot be empty !\n"
+msgstr "文件路径不能为空 !\n"
+
+#: GUI_work1file.py:437
+msgid "The path of output files should not be empty !\n"
+msgstr "输出文件路径不能为空 !\n"
+
+#: GUI_work1file.py:443
+msgid "Use the default extension : "
+msgstr "采用默认扩展名 : "
+
+#: GUI_work1file.py:444
+msgid "Use the default extension : {}\n"
+msgstr "采用默认扩展名 : {}\n"
+
+#: GUI_work1file.py:466
+msgid "* The files are sorted as follows :\n"
+msgstr "* 文件排序如下 :\n"
+
+#: GUI_work1file.py:471
+msgid ">> The running time is {:.3f} s "
+msgstr ">>>>>  总共运行时间是{:.3f} 秒 "
+
+#: GUI_work1file.py:475
+msgid "* System error ! \n"
+msgstr "* 系统错误 ! \n"
+
+#: GUI_work1file.py:479
+msgid ""
+"================================  This is the dividing line   "
+"============================= \n"
+msgstr ""
+"================================  这是分割线   "
+"============================= \n"
+
+#: GUI_work1file.py:713
+msgid "Reselect language"
+msgstr "重选语言"
+
+#: GUI_work1file.py:713
+msgid "Language"
+msgstr "语言"
+
+#: GUI_work1file.py:715
+msgid "See help"
+msgstr "查看 帮助"
+
+#: GUI_work1file.py:715
+msgid "About"
+msgstr "关于"
+
+#: GUI_work1file.py:715
+msgid "Help"
+msgstr "帮助"
+
+#: work1_fun_conbine.py:67
+msgid "Open the file"
+msgstr "打开文件"
+
+#: work1_fun_conbine.py:144
+msgid "{} files need to be renamed  !\n"
+msgstr "{} 个文件需要被重命名  !\n"
+
+#: work1_fun_conbine.py:147
+msgid "{} files need to be recovered !\n"
+msgstr "{} 个文件需要被还原 !\n"
+
+#: work1_fun_conbine.py:191
+msgid "Rename finished  ! {} files done !\n"
+msgstr "重命名完成  ! 处理了{} 个文件 !\n"
+
+#: work1_fun_conbine.py:195
+msgid "Recover finished  ! {} files done ! \n"
+msgstr "还原重命名完成  ! 处理了{} 个文件 ! \n"
+
+#: work1_fun_conbine.py:199
+msgid "Not rename any file.  \n"
+msgstr "未重命名任何文件.  \n"
+
+#: work1_fun_conbine.py:283
+msgid "* Searching all files ...... \n"
+msgstr "* 搜索所有文件 ...... \n"
+
+#: work1_fun_conbine.py:289
+msgid "* Do not searching sub file folders ...... \n"
+msgstr "* 不搜索子文件夹中的文件 ...... \n"
+
+#: work1_fun_conbine.py:297
+msgid "The number of file paths is {}\n"
+msgstr "文件路径个数为: {}\n"
+
+#: work1_fun_conbine.py:313
+msgid "Was it the file we want?"
+msgstr "这是我们要处理的文件吗 ?"
+
+#: work1_fun_conbine.py:315
+msgid "Yes"
+msgstr "是的"
+
+#: work1_fun_conbine.py:317
+msgid "No"
+msgstr "不是"
+
+#: work1_fun_conbine.py:330
+msgid "*  List ...... \n"
+msgstr "*  罗列中 ...... \n"
+
+#: work1_fun_conbine.py:331
+msgid "The number of file selected is {}\n"
+msgstr "被选择的文件数为 {}\n"
+
+#: work1_fun_conbine.py:338
+#, fuzzy
+#| msgid "the filename is :          {}\n"
+msgid "-> the filename is :       {}\n"
+msgstr "文件名为 :          {}\n"
+
+#: work1_fun_conbine.py:339
+msgid "the sum of word number is :{}\n"
+msgstr "总单词个数为 :{}\n"
+
+#: work1_fun_conbine.py:340
+msgid "the subtitle rate is :     {}\n"
+msgstr "字幕文件每分钟单词个数为 :     {}\n"
+
+#: work1_fun_conbine.py:344
+msgid "*  Get the new name and new path ......\n"
+msgstr "*  获取新的文件名和新的文件路径 ......\n"
+
+#: work1_fun_conbine.py:352
+msgid "*  Write the txt file  ......\n"
+msgstr "*  写入txt文件中  ......\n"
+
+#: work1_fun_conbine.py:356
+msgid "*  Rename or recover ......\n"
+msgstr "*  重命名或还原重命名中 ......\n"
+
+#: work1_fun_conbine.py:365
+msgid ">>>>>  The total running time is {:.3f} s\n"
+msgstr ">>>>>  总共运行时间是{:.3f} 秒\n"
+
+#~ msgid "other"
+#~ msgstr "其他"
+
+#~ msgid "Are you sure to quit？"
+#~ msgstr "你确定要退出吗？"
+
+#~ msgid "version info"
+#~ msgstr "查看信息"

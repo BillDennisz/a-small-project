@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-18 10:26+0800\n"
+"PO-Revision-Date: 2021-03-18 10:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: work1_fun_conbine.py\n"
+"X-Poedit-SearchPath-1: GUI_work1file.py\n"
+
+#: GUI_work1file.py:136 GUI_work1file.py:340
+msgid "Attention"
+msgstr "Attention"
+
+#: GUI_work1file.py:141
+msgid "You can restart now and select the language !"
+msgstr "Vous pouvez redémarrer maintenant et sélectionner la langue!"
+
+#: GUI_work1file.py:143
+msgid "OK"
+msgstr "D'accord"
+
+#: GUI_work1file.py:168
+msgid ""
+"       Count the number of words per minute in the subtitle file and "
+"generate a text file      "
+msgstr ""
+"       Comptez le nombre de mots par minute dans le fichier de sous-titres "
+"et générez un fichier texte    "
+
+#: GUI_work1file.py:175
+msgid "Object path:"
+msgstr ""
+"Chemin \n"
+"d’objet :"
+
+#: GUI_work1file.py:179
+msgid ""
+"Output \n"
+"path:"
+msgstr ""
+"Production\n"
+"chemin:"
+
+#: GUI_work1file.py:181
+msgid ""
+"Customize \n"
+"extension:"
+msgstr ""
+"Personnaliser\n"
+"extension:"
+
+#: GUI_work1file.py:186
+msgid "  Information  "
+msgstr "  Informations   "
+
+#: GUI_work1file.py:188
+msgid "Option:"
+msgstr "Option:"
+
+#: GUI_work1file.py:193 GUI_work1file.py:197 GUI_work1file.py:334
+msgid "Browse"
+msgstr "Parcourir"
+
+#: GUI_work1file.py:251
+msgid "Quit"
+msgstr "Quitter"
+
+#: GUI_work1file.py:254 GUI_work1file.py:318
+msgid "Start"
+msgstr "Début"
+
+#: GUI_work1file.py:257
+msgid "Recover"
+msgstr "Se remettre"
+
+#: GUI_work1file.py:260 GUI_work1file.py:273
+msgid "Rename"
+msgstr "Renommer"
+
+#: GUI_work1file.py:264
+msgid "Process files in subfolders "
+msgstr "Traiter les fichiers dans les sous-dossiers "
+
+#: GUI_work1file.py:269
+msgid "Output files"
+msgstr "Fichiers de sortie"
+
+#: GUI_work1file.py:300
+msgid "New"
+msgstr "Nouveau"
+
+#: GUI_work1file.py:304
+msgid "Show information list"
+msgstr "Afficher la liste d'informations"
+
+#: GUI_work1file.py:308
+msgid "Clear information list"
+msgstr "Effacer la liste d'informations"
+
+#: GUI_work1file.py:311
+msgid "Show the selected option"
+msgstr "Afficher l'option sélectionnée"
+
+#: GUI_work1file.py:328
+msgid "Are you sure to quit ?"
+msgstr "Êtes-vous sûr de cesser de fumer?"
+
+#: GUI_work1file.py:335
+msgid "Quit！"
+msgstr "Quitter！"
+
+#: GUI_work1file.py:340
+msgid "Are you sure to quit ? "
+msgstr "Êtes-vous sûr de cesser de fumer? "
+
+#: GUI_work1file.py:398
+msgid "No list information currently ！\n"
+msgstr "Aucune information de liste actuellement！ \n"
+
+#: GUI_work1file.py:404
+msgid ""
+"* Output:  new file name | Word number in total | Total time of the subtitle "
+"| Word number per minute"
+msgstr ""
+"* Sortie: nouveau nom de fichier | Nombre de mots au total | Durée totale du "
+"sous-titre | Nombre de mots par minute"
+
+#: GUI_work1file.py:408
+msgid "Word number in total:"
+msgstr "Nombre de mots au total:"
+
+#: GUI_work1file.py:409
+msgid "Total time of the subtitle(min):"
+msgstr "Durée totale du sous-titre (min):"
+
+#: GUI_work1file.py:411
+msgid "Word number per minute:"
+msgstr "Nombre de mots par minute:"
+
+#: GUI_work1file.py:414
+msgid " Print information  error !\n"
+msgstr " Erreur d'impression des informations! \n"
+
+#: GUI_work1file.py:430
+msgid "The file path cannot be empty !\n"
+msgstr "Le chemin de fichier ne peut pas être vide !\n"
+
+#: GUI_work1file.py:437
+msgid "The path of output files should not be empty !\n"
+msgstr "Le chemin des fichiers de sortie ne doit pas être vide! \n"
+
+#: GUI_work1file.py:443
+msgid "Use the default extension : "
+msgstr "Utilisez l'extension par défaut: "
+
+#: GUI_work1file.py:444
+msgid "Use the default extension : {}\n"
+msgstr "Utilisez l'extension par défaut: {} \n"
+
+#: GUI_work1file.py:466
+msgid "* The files are sorted as follows :\n"
+msgstr "* Les fichiers sont triés comme suit: \n"
+
+#: GUI_work1file.py:471
+msgid ">> The running time is {:.3f} s "
+msgstr ">>>>> La durée totale de fonctionnement est de {: .3f} s  "
+
+#: GUI_work1file.py:475
+msgid "* System error ! \n"
+msgstr "* Erreur système ! \n"
+
+#: GUI_work1file.py:479
+msgid ""
+"================================  This is the dividing line   "
+"============================= \n"
+msgstr ""
+"================================ Ceci est la ligne de division ============= "
+"================  \n"
+
+#: GUI_work1file.py:713
+msgid "Reselect language"
+msgstr "Resélectionnez la langue"
+
+#: GUI_work1file.py:713
+msgid "Language"
+msgstr "Langue"
+
+#: GUI_work1file.py:715
+msgid "See help"
+msgstr "Voir l'aide"
+
+#: GUI_work1file.py:715
+msgid "About"
+msgstr "À propos de"
+
+#: GUI_work1file.py:715
+msgid "Help"
+msgstr "Aider"
+
+#: work1_fun_conbine.py:67
+msgid "Open the file"
+msgstr "Fichier ouvert"
+
+#: work1_fun_conbine.py:144
+msgid "{} files need to be renamed  !\n"
+msgstr "{} fichiers doivent être renommés! \n"
+
+#: work1_fun_conbine.py:147
+msgid "{} files need to be recovered !\n"
+msgstr "{} fichiers doivent être récupérés! \n"
+
+#: work1_fun_conbine.py:191
+msgid "Rename finished  ! {} files done !\n"
+msgstr "Renommer terminé! {} fichiers terminés! \n"
+
+#: work1_fun_conbine.py:195
+msgid "Recover finished  ! {} files done ! \n"
+msgstr "Récupérez terminé! {} fichiers terminés! \n"
+
+#: work1_fun_conbine.py:199
+msgid "Not rename any file.  \n"
+msgstr "Ne renommez aucun fichier. \n"
+
+#: work1_fun_conbine.py:283
+msgid "* Searching all files ...... \n"
+msgstr "* Recherche de tous les fichiers ...... \n"
+
+#: work1_fun_conbine.py:289
+msgid "* Do not searching sub file folders ...... \n"
+msgstr "* Ne pas rechercher dans les sous-dossiers de fichiers ...... \n"
+
+#: work1_fun_conbine.py:297
+msgid "The number of file paths is {}\n"
+msgstr "Le nombre de chemins de fichiers est {} \n"
+
+#: work1_fun_conbine.py:313
+msgid "Was it the file we want?"
+msgstr "Est-ce le fichier que nous voulons?"
+
+#: work1_fun_conbine.py:315
+msgid "Yes"
+msgstr "Oui"
+
+#: work1_fun_conbine.py:317
+msgid "No"
+msgstr "Non"
+
+#: work1_fun_conbine.py:330
+msgid "*  List ...... \n"
+msgstr "*  Lister ...... \n"
+
+#: work1_fun_conbine.py:331
+msgid "The number of file selected is {}\n"
+msgstr "Le nombre de fichiers sélectionnés est {} \n"
+
+#: work1_fun_conbine.py:338
+msgid "-> the filename is :       {}\n"
+msgstr "le nom du fichier est:  {} \n"
+
+#: work1_fun_conbine.py:339
+msgid "the sum of word number is :{}\n"
+msgstr "la somme du nombre de mots est: {} \n"
+
+#: work1_fun_conbine.py:340
+msgid "the subtitle rate is :     {}\n"
+msgstr "le taux de sous-titres est: {} \n"
+
+#: work1_fun_conbine.py:344
+msgid "*  Get the new name and new path ......\n"
+msgstr "* Obtenez le nouveau nom et le nouveau chemin ...... \n"
+
+#: work1_fun_conbine.py:352
+msgid "*  Write the txt file  ......\n"
+msgstr "* Ecrivez le fichier txt ...... \n"
+
+#: work1_fun_conbine.py:356
+msgid "*  Rename or recover ......\n"
+msgstr "* Renommer ou récupérer ...... \n"
+
+#: work1_fun_conbine.py:365
+msgid ">>>>>  The total running time is {:.3f} s\n"
+msgstr ">>>>> La durée totale de fonctionnement est de {: .3f} s \n"
+
+#~ msgid "other"
+#~ msgstr "autre"
+
+#~ msgid "Are you sure to quit？"
+#~ msgstr "Êtes-vous sûr de quitter？"

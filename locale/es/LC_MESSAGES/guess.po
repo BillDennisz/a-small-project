@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-12-20 00:49+Pacific Standard Time\n"
+"PO-Revision-Date: 2014-12-20 00:57-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: \guess2.py:6
+msgid "Hello! What is your name?"
+msgstr "Hola! Cuál es tu nombre?"
+
+#: \guess2.py:10
+msgid "Well, %s, I am thinking of a number between 1 and 20."
+msgstr "%s, estoy pensando en un número entre 1 y 20."
+
+#: \guess2.py:13
+msgid "Take a guess."
+msgstr "Adivina."
+
+#: \guess2.py:20
+msgid "Your guess is too low."
+msgstr "Su conjetura es demasiado bajo."
+
+#: \guess2.py:23
+msgid "Your guess is too high."
+msgstr "Su conjetura es demasiado alto."
+
+#: \guess2.py:30
+msgid "Good job, %s! You guessed my number in %s guesses!"
+msgstr "Buen trabajo, %s! Lo has adivinado mi número en conjeturas %s!"
+
+#: \guess2.py:34
+msgid "Nope. The number I was thinking of was %s."
+msgstr "Nop. El número que estaba pensando era %s."
